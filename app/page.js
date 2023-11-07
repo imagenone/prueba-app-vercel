@@ -301,7 +301,7 @@ const handleMouseEnter = (id) => {
                   <div className={styles.backgroundImage}>
                   <h1 className={`fs-5 ${styles.colorText}`} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%' }}>
                     
-                    La Computadora del Programador: El Equipo Perfecto para Tu Código Creativo
+                    La Computadora del Programador: El Equipo Perfecto para Tu Código 
                     </h1>
                   </div>
                    
