@@ -6,7 +6,7 @@ import Navigation from './components/Navigation.jsx'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: ' blog | como ser programador junior | que computadora Comprar   ',
+  title: ' blog | como ser programador junior | que computadora Comprar | javascript  ',
   description: 'fundamentos de la programación, elige un lenguaje de programación que te interese,',
 }
 
